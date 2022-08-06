@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Abhilash Nandy, PhD Student in CSE, IIT Kharagpur, India. I work on domain-specific Natural Language Processing Applications. Check out my [homepage](https://sites.google.com/view/abhilashnandy) and [My YouTube Channel](https://www.youtube.com/channel/UCe-LplscrCoSJ4kTIRTMaPQ)!
+
 <!--
 **abhi1nandy2/abhi1nandy2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
