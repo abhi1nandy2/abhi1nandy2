@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋, Abhilash here!</h1>
+<h3 align="center">A PhD Student hustin' in NLP from India</h3>
 
 I'm Abhilash Nandy, PhD Student in CSE, IIT Kharagpur, India. I work on domain-specific Natural Language Processing Applications. Check out my [homepage](https://sites.google.com/view/abhilashnandy) and [My YouTube Channel](https://www.youtube.com/channel/UCe-LplscrCoSJ4kTIRTMaPQ)!
 
